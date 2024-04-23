@@ -21,3 +21,10 @@ objects, and otherwise interact with certain physical models in predictable ways
 that are able to be manipulated by the player are indicated with an outline when looked
 at, a small widget, or a combination of both. Small textual hints and visual clues are
 scattered throughout the level, in order to give the player a sense of direction.
+
+# Project Showcase
+
+![Submitted poster describing key features and a description, added in the Markdown, of the 3D escape room project.](/assets/Project Poster.pdf)
+
+Follow the link below for a video walkthrough!
+https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=ACaOZZxK6ib37zF4
