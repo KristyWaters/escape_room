@@ -29,5 +29,5 @@ Here is our submitted poster describing key features and a description, of the 3
 <br>
 
 Follow the link below for a video walkthrough!
-<video src='https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=ACaOZZxK6ib37zF4' width=600/>
-https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=ACaOZZxK6ib37zF4
+<video src='https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=ACaOZZxK6ib37zF4' width=180/>
+<link https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=ACaOZZxK6ib37zF4 > 
