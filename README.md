@@ -24,9 +24,10 @@ scattered throughout the level, in order to give the player a sense of direction
 
 # Project Showcase
 
-![Submitted poster describing key features and a description, added in the Markdown, of the 3D escape room project.]
+Here is our submitted poster describing key features and a description, of the 3D escape room project.
 <img src="https://github.com/KristyWaters/escape_room/blob/main/assets/Project%20Poster-1.png"  width="600" >  
 <br>
 
 Follow the link below for a video walkthrough!
+<video src='https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=ACaOZZxK6ib37zF4' width=600/>
 https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=ACaOZZxK6ib37zF4
